@@ -20,3 +20,5 @@ Este projeto tem como finalidade aplicar os conceitos de tecnologia aplicada à 
 
 * [Planejamento](#Jira)
 
+<img width="630" height="433" alt="image" src="https://github.com/user-attachments/assets/e51292e5-3650-46e5-bb6a-14b13efd3109" />
+
